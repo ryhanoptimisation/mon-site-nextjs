@@ -260,10 +260,10 @@ export default function Home() {
                 <Gauge className="w-6 h-6 text-zinc-700 dark:text-zinc-300" />
               </div>
               <h3 className="text-xl font-semibold text-zinc-900 dark:text-white mb-2">
-                Input Lag 0ms
+                Input Lag 0MS
               </h3>
               <p className="text-zinc-600 dark:text-zinc-400">
-                Optimisation approfondie pour atteindre 0ms d'input lag sur
+                Optimisation approfondie pour atteindre 0MS d'input lag sur
                 clavier, souris et manette.
               </p>
             </Card>
@@ -588,7 +588,7 @@ export default function Home() {
               </div>
 
               <Button variant="outline" className="w-full mt-8">
-                Choisir cette offre
+                Ticket Discord
               </Button>
             </Card>
 
@@ -686,7 +686,7 @@ export default function Home() {
               </div>
 
               <Button className="w-full mt-8 bg-white text-zinc-900 hover:bg-zinc-100 dark:bg-zinc-900 dark:text-white dark:hover:bg-zinc-800">
-                Choisir cette offre
+                Ticket Discord
               </Button>
             </Card>
           </div>
