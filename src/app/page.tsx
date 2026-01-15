@@ -139,7 +139,10 @@ export default function Home() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <Button size="lg" className="group">
-                Discord
+                Rejoindre Notre
+              <a href="https://discord.gg/ZDS9ww4SYd" target="_blank" rel="noopener noreferrer">
+                   Serveur Discord
+                   </a>
                 <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </Button>
               <Button size="lg" variant="outline">
