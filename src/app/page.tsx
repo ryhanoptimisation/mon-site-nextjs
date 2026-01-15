@@ -558,7 +558,7 @@ export default function Home() {
                     </li>
                     <li className="flex items-start gap-2 text-sm text-zinc-600 dark:text-zinc-400">
                       <CheckCircle className="w-4 h-4 text-zinc-500 mt-0.5 flex-shrink-0" />
-                      Input lag 0ms (clavier, souris, manette)
+                      Input lag 0MS (clavier, souris, manette)
                     </li>
                     <li className="flex items-start gap-2 text-sm text-zinc-600 dark:text-zinc-400">
                       <CheckCircle className="w-4 h-4 text-zinc-500 mt-0.5 flex-shrink-0" />
@@ -576,7 +576,8 @@ export default function Home() {
                   <ul className="space-y-2">
                     <li className="flex items-start gap-2 text-sm text-zinc-600 dark:text-zinc-400">
                       <CheckCircle className="w-4 h-4 text-zinc-500 mt-0.5 flex-shrink-0" />
-                      1 jeu optimisé au choix
+                      2 Jeux optimisé au choix 
+                     (FiveM, Fortnite, Warzone, Valorant, Minecraft, Counter Strike)
                     </li>
                     <li className="flex items-start gap-2 text-sm text-zinc-600 dark:text-zinc-400">
                       <CheckCircle className="w-4 h-4 text-zinc-500 mt-0.5 flex-shrink-0" />
@@ -670,7 +671,7 @@ export default function Home() {
                   <ul className="space-y-2">
                     <li className="flex items-start gap-2 text-sm text-zinc-300 dark:text-zinc-600">
                       <CheckCircle className="w-4 h-4 text-zinc-400 dark:text-zinc-500 mt-0.5 flex-shrink-0" />
-                      1 jeu optimisé (Apex, FiveM, Fortnite, Valorant, Warzone)
+                      Jeux optimisé (FiveM, Fortnite, Warzone, Valorant, Minecraft, Counter Strike)
                     </li>
                     <li className="flex items-start gap-2 text-sm text-zinc-300 dark:text-zinc-600">
                       <CheckCircle className="w-4 h-4 text-zinc-400 dark:text-zinc-500 mt-0.5 flex-shrink-0" />
