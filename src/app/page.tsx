@@ -90,8 +90,15 @@ export default function Home() {
         <div className="max-w-6xl mx-auto px-6 py-3 flex items-center justify-between">
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 bg-zinc-900 dark:bg-white rounded-lg flex items-center justify-center">
-              <Cpu className="w-6 h-6 text-white dark:text-zinc-900" />
-            </div>
+              <div className="max-w-6xl mx-auto px-6 py-3 flex items-center justify-between">
+          <div className="flex items-center gap-3">
+          <div className="w-10 h-10 bg-zinc-900 dark:bg-white rounded-lg flex items-center justify-center">
+  <img 
+    src="/logo.png"
+    alt="Logo"
+    className="w-8 h-8"
+  />
+</div>
             <span className="text-xl font-semibold text-zinc-900 dark:text-white">
               ryhan Optimisation
             </span>
