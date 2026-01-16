@@ -126,7 +126,6 @@ export default function Home() {
           <Button size="sm">Contact</Button>
         </div>
       </nav>
-
       {/* Hero Section */}
       <section className="pt-28 pb-16 px-6">
         <div className="max-w-6xl mx-auto">
